@@ -4,4 +4,5 @@ version = "0.1.0"
 authors = ["Victor Berger <victor.berger@m4x.org>"]
 
 [dependencies]
+chrono = "0.4"
 todo-txt = "1.1"
