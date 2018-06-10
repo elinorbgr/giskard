@@ -10,7 +10,7 @@ It is also a CLI for viewing, editing, searching, and generaly using your `todo.
 
 You need to build the cargo project with the `cli` feature flag for it to be built.
 
-Giskard is configured via a config file in `$XDG_CONFIG_HOME/diskard/config.toml`, its format is:
+Giskard is configured via a config file in `$XDG_CONFIG_HOME/giskard/config.toml`, its format is:
 
 ```toml
 # An array of task files, giskard can work with multiple of them
